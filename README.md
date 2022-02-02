@@ -1,5 +1,5 @@
 # LP2
-###__Repositório para as aulas da faculdade (UERJ)__
+### __Repositório para as aulas da faculdade (UERJ)__
 
 *__Orientação a Objetos__*
 
